@@ -25,6 +25,5 @@
         >.md</span>
       </div>
 <ul dir="auto">
-<li>I'm MIPT DIHT second year student</li>
-<li>I'm currently learning Golang and Big Data</li>
+<li>I'm a 3rd year student of APOU "IPEK"</li>
 </ul>
