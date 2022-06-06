@@ -4,6 +4,9 @@
 <h3 align = "center">About me</h3>
 <h4 align="center">I am a 3rd year student of APOU "IPEK"</h4>
 <h5 align = "center">Skills / knowledges</h5>
-<h6 align = "center">Languages</h6>
+<h6 align = "center">Languages:</h6>
+- Python
+- Java
+- Php
 <img src="images/php.svg"/>
 <img src="images/python.svg"/>
